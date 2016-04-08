@@ -1,0 +1,30 @@
+{
+  "name": "livelihood",
+  "version": "0.0.0",
+  "description": "Livelihood of Chinese people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvernnot/livelihood.git"
+  },
+  "keywords": [
+    "livelihood",
+    "price",
+    "china"
+  ],
+  "author": "wyvernnot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/livelihood/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/livelihood#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "moment": "^2.12.0",
+    "oneapm-ci-sdk": "0.0.1",
+    "request": "^2.70.0"
+  }
+}
